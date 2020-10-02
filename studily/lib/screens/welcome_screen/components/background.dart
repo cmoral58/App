@@ -18,10 +18,10 @@ class Background extends StatelessWidget {
         alignment: Alignment.center,
         children: <Widget>[
           Positioned(
-            top: 90,
-            left: 0,
+            top: 100,
+            right: 0,
             child: Image.asset(
-              'assets/WaveImages/WelcomeWave.PNG',
+              'assets/WaveImages/WelcomeWave.png',
               width: size.width * 1,
             ),
           ),

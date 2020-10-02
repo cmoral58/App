@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class Background extends StatelessWidget {
+class LoginBackground extends StatelessWidget {
   final Widget child;
-  const Background({
+  const LoginBackground({
     Key key,
     @required this.child,
   }) : super(key: key);
@@ -10,7 +10,6 @@ class Background extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
-
     return Container(
       height: size.height,
       width: double.infinity,
@@ -18,12 +17,14 @@ class Background extends StatelessWidget {
         alignment: Alignment.center,
         children: <Widget>[
           Positioned(
-            top: 100,
+            top: -50,
+            left: -90,
             child: Image.asset(
-              'assets/LoginScreenImages/undraw_unlock_24mb.png',
-              width: size.width * 1,
+              'assets/LoginScreenImages/TopLeftBubble.png',
+              width: size.width * 1.2,
             ),
           ),
+          child,
         ],
       ),
     );
