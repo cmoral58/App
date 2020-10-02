@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:studily/screens/register_screen/components/register_body.dart';
 
 class RegisterScreen extends StatelessWidget {
-  const RegisterScreen({Key key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: RegisterBody(),
+    );
   }
 }
