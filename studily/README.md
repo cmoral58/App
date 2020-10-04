@@ -1,7 +1,5 @@
 # Studily - [Visit the website!](https://cmoral58.github.io/student-app/)
 
-A new Flutter project.
-
 # Studily - An app for Students
 
 ## Description
