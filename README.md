@@ -1,6 +1,6 @@
 # Studily - [Visit the website!](https://cmoral58.github.io/student-app/)
 
-# Studily - An app for Students
+
 
 ## Description
 
