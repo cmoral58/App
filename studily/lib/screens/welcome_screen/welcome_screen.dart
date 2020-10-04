@@ -1,5 +1,5 @@
+import 'package:Studily/screens/welcome_screen/components/body.dart';
 import 'package:flutter/material.dart';
-import 'package:studily/screens/welcome_screen/components/body.dart';
 
 class WelcomeScreen extends StatelessWidget {
   @override

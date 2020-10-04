@@ -1,7 +1,6 @@
+import 'package:Studily/screens/register_screen/register_screen.dart';
 import 'package:flutter/material.dart';
-// import 'package:studily/screens/login_screen/login_screen.dart';
-import 'package:studily/screens/register_screen/register_screen.dart';
-import 'background.dart';
+import 'package:Studily/screens/welcome_screen/components/background.dart';
 
 class Body extends StatelessWidget {
   @override

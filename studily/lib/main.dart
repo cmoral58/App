@@ -1,6 +1,6 @@
 // import 'package:flutter/material.dart';
+import 'package:Studily/screens/welcome_screen/welcome_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:studily/screens/welcome_screen/welcome_screen.dart';
 
 void main() {
   runApp(MyApp());

@@ -1,12 +1,12 @@
+import 'package:Studily/components/already_have_an_account_check.dart';
+import 'package:Studily/components/rounded_button.dart';
+import 'package:Studily/components/rounded_input_field.dart';
+import 'package:Studily/components/rounded_password_field.dart';
+import 'package:Studily/screens/login_screen/login_screen.dart';
+import 'package:Studily/screens/register_screen/components/register_background.dart';
+import 'package:Studily/screens/register_screen/components/social_icons.dart';
 import 'package:flutter/material.dart';
-import 'package:studily/components/already_have_an_account_check.dart';
-import 'package:studily/components/rounded_button.dart';
-import 'package:studily/components/rounded_input_field.dart';
-import 'package:studily/components/rounded_password_field.dart';
-import 'package:studily/screens/login_screen/login_screen.dart';
-import 'package:studily/screens/register_screen/components/or_divider.dart';
-import 'package:studily/screens/register_screen/components/register_background.dart';
-import 'package:studily/screens/register_screen/components/social_icons.dart';
+import 'package:Studily/screens/register_screen/components/or_divider.dart';
 
 class RegisterBody extends StatelessWidget {
   @override

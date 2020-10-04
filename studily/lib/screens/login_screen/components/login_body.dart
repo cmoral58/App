@@ -1,11 +1,11 @@
+import 'package:Studily/components/already_have_an_account_check.dart';
+import 'package:Studily/components/rounded_button.dart';
+import 'package:Studily/components/rounded_input_field.dart';
+import 'package:Studily/components/rounded_password_field.dart';
+import 'package:Studily/screens/home_screen/home_screen.dart';
+import 'package:Studily/screens/register_screen/register_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:studily/components/already_have_an_account_check.dart';
-import 'package:studily/components/rounded_button.dart';
-import 'package:studily/components/rounded_input_field.dart';
-import 'package:studily/components/rounded_password_field.dart';
 // import 'package:studily/components/text_field_container.dart';
-import 'package:studily/screens/home_screen/home_screen.dart';
-import 'package:studily/screens/register_screen/register_screen.dart';
 // import 'package:studily/theme/style.dart'; // import not used
 import 'login_background.dart';
 

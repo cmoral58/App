@@ -1,5 +1,5 @@
+import 'package:Studily/screens/register_screen/components/register_body.dart';
 import 'package:flutter/material.dart';
-import 'package:studily/screens/register_screen/components/register_body.dart';
 
 class RegisterScreen extends StatelessWidget {
   @override

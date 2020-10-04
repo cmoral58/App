@@ -1,5 +1,5 @@
+import 'package:Studily/theme/style.dart';
 import 'package:flutter/material.dart';
-import 'package:studily/theme/style.dart';
 
 class OrDivider extends StatelessWidget {
   @override
