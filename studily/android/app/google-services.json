@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "183708993149",
+    "firebase_url": "https://studily-305ec.firebaseio.com",
+    "project_id": "studily-305ec",
+    "storage_bucket": "studily-305ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183708993149:android:e5d16f2ee9ed9c7b17d314",
+        "android_client_info": {
+          "package_name": "com.example.studily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183708993149-8c4lqkpr8ergogfuv6cvprq5t46ldf2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvA-z14TSEk8cw0TLOdzv31hTaoTiRmrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183708993149-8c4lqkpr8ergogfuv6cvprq5t46ldf2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183708993149-gnhttho8sipsgddml11ekho37inrkv33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studily"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
