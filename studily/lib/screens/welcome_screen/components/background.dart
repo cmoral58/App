@@ -21,7 +21,7 @@ class Background extends StatelessWidget {
             top: 100,
             right: 0,
             child: Image.asset(
-              'assets/WaveImages/WelcomeWave.PNG',
+              'assets/WaveImages/WelcomeWave.png',
               width: size.width * 1,
             ),
           ),
